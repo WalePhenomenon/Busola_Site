@@ -27,18 +27,12 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "user-chart"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "SAS"
   description = "100%"
   
-  [[feature]]
-  icon = "user-chart"
-  icon_pack = "fas"
-  name = "SAS"
-  description = "100%"
-  
-  [[feature]]
+[[feature]]
   icon = "viruses"
   icon_pack = "fas"
   name = "Global Health"
