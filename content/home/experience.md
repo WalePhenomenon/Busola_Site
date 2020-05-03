@@ -24,10 +24,7 @@ date_format = "Jan 2006"
   location = "Chapel Hill, NC"
   date_start = "2014-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
 
-  """
 
 [[experience]]
   title = "Biostatistics PhD Research Intern
@@ -36,9 +33,7 @@ date_format = "Jan 2006"
   location = "Boston, MA"
   date_start = "2017-05-31"
   date_end = "2017-8-13"
-  description = """
-  
-  """
+
   
   [[experience]]
   title = "Biostatistics PhD Research Intern
@@ -47,8 +42,5 @@ date_format = "Jan 2006"
   location = "Upper Gwynedd, PA"
   date_start = "2016-5-6"
   date_end = "2016-8-13"
-  description = """
-  
-  """
 
 +++
