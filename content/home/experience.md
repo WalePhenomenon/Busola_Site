@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Biostatistics PhD Research Intern
+  title = "Biostatistics PhD Research Intern"
   company = "Takeda Oncology"
   company_url = "https://www.takedaoncology.com/"
   location = "Boston, MA"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 
   
   [[experience]]
-  title = "Biostatistics PhD Research Intern
+  title = "Biostatistics PhD Research Intern"
   company = "Merck & Co. Pharmaceutical"
   company_url = "https://www.merck.com/"
   location = "Upper Gwynedd, PA"
