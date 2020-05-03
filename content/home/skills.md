@@ -31,11 +31,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "SAS"
   description = "100%"
-  
-[[feature]]
-  icon = "viruses"
-  icon_pack = "fas"
-  name = "Global Health"
-  description = "100%"
 
 +++
