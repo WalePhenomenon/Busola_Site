@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Busola Sanusi
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Biostatistician
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Lineberger Comprehensive Cancer Center, UNC-CH
+  url: "https://unclineberger.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Survival Analysis
+- Marked Process
+- Clinical Trials
+- Causal Inference
+- HPV and Cervical Cancer
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biostatistics
+    institution: University of North Carolina, Chapel Hill
+    year: 2020
+  - course: MA in Mathematics
+    institution: Central Michigan University
+    year: 2013
+  - course: BSc in Mathematics and Statistics (1st Class)
+    institution: University of Lagos
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,24 +46,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:busolasanusi@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/busolaOsanusi
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=TBoYq6cAAAAJ&hl=en&oi=ao
+  # - icon: github
+  # icon_pack: fab
+  # link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+icon_pack: ai
+link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "busolasanusi@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a doctoral candidate at the Department of Biostatistics and a research biostatistician at the Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill. I was a fellow and a 3- year recipient of an academic and research scholarship from the Schlumberger faculty for the future program (2015 – 2018). I also received the 2019 ASA Biopharmaceutical Section Award in recognition of my notable research, academic achievement and applied project work related to the area of biopharmaceutical statistics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my undergraduate degree in Mathematics & Statistics at the University of Lagos, where I received the Vice Chancellor Prize for the best graduating student in the faculty of science, and my masters’ degree in Mathematics at Central Michigan University. I previously worked as a Biostatistics Ph.D. intern at Merck Pharmaceuticals (2016) and at Takeda Oncology (2017). My research interests are survival analysis, infectious diseases, clinical trials and evaluation of surrogate markers. In the last few years, I have been focused on collaborative global research projects that address the prevalence, screening, and treatments of human papillomavirus (HPV), human immunodeficiency virus (HIV) and cervical cancer.
