@@ -29,25 +29,25 @@ title = "2019 American Statistical Association Biopharmaceutical Section Scholar
 title = "2019 Lifetime Data Science Conference Student Poster Award."
 
 [[item]]
-title = "JSM Diversity Travel Scholarship Award ($1000)."
+title = "JSM Diversity Travel Scholarship Award (\$1000)."
 
 [[item]]
-title = "2015-2018 Schlumberger Foundation Faculty For The Future Fellowship ($150,000)."
+title = "2015-2018 Schlumberger Foundation Faculty For The Future Fellowship (\$150,000)."
 
 [[item]]
 title = "2018 Nominated to Sigma Xi - The Scientific Research Society."
 
 [[item]]
-title = "2018 ENAR/NIH Fostering Diversity in Biostatistics Travel Scholarship ($800)."
+title = "2018 ENAR/NIH Fostering Diversity in Biostatistics Travel Scholarship (\$800)."
 
 [[item]]
 title = "Best Abstract Award, 3rd Southern African HIV Clinicians Society Conference."
 
 [[item]]
-title = "2015 UNC Biostatistics Department Travel Award ($750)."
+title = "2015 UNC Biostatistics Department Travel Award (\$750)."
 
 [[item]]
-title = "2014-2015 John and Diane Fryer UNC Biostatistics Fellowship ($8000)."
+title = "2014-2015 John and Diane Fryer UNC Biostatistics Fellowship (\$8000)."
 
 [[item]]
 title = "2013 Outstanding Graduate Teaching Assistant Award, CMU."
