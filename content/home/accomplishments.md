@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -18,34 +18,62 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  title = "2019 Paliwal Club of 100 Scholarship for Women in S.T.E.A.M."
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+title = "2019 American Statistical Association Biopharmaceutical Section Scholarship Award."
+
+[[item]]
+title = "2019 Lifetime Data Science Conference Student Poster Award."
+
+[[item]]
+title = "JSM Diversity Travel Scholarship Award ($1000)."
+
+[[item]]
+title = "2015-2018 Schlumberger Foundation Faculty For The Future Fellowship ($150,000)."
+
+[[item]]
+title = "2018 Nominated to Sigma Xi - The Scientific Research Society."
+
+[[item]]
+title = "2018 ENAR/NIH Fostering Diversity in Biostatistics Travel Scholarship ($800)."
+
+[[item]]
+title = "Best Abstract Award, 3rd Southern African HIV Clinicians Society Conference."
+
+[[item]]
+title = "2015 UNC Biostatistics Department Travel Award ($750)."
+
+[[item]]
+title = "2014-2015 John and Diane Fryer UNC Biostatistics Fellowship ($8000)."
+
+[[item]]
+title = "2013 Outstanding Graduate Teaching Assistant Award, CMU."
+
+[[item]]
+title = "2011 Vice-Chancellor’s Prize For Best All Round Performance In The Faculty, UNILAG."
+
+[[item]]
+title = "2011 Faculty of Science Award For Best Graduating Student, UNILAG."
+
+[[item]]
+title = "2011 Department of Mathematics Award For Best Graduating Student, UNILAG."
+
+[[item]]
+title = "2011 National School Fund Prize For Best Student, UNILAG."
+
+[[item]]
+title = "2011 Wilfred Ighodare Prize For The Best Graduating Student In The Faculty."
+
+[[item]]
+title = "2011 Gocuz Group Ltd. Prize For Best Graduating Student In Science, UNILAG."
+
+[[item]]
+title = "2007-2010 University of Lagos Outstanding Scholars’ Award ($300/year)."
+
+
+
 
 +++
