@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://www.takedaoncology.com/"
   location = "Boston, MA"
   date_start = "2017-05-31"
-  date_end = "2017-8-13"
+  date_end = "2017-08-13"
 
   
   [[experience]]
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   company = "Merck & Co. Pharmaceutical"
   company_url = "https://www.merck.com/"
   location = "Upper Gwynedd, PA"
-  date_start = "2016-5-6"
-  date_end = "2016-8-13"
+  date_start = "2016-05-06"
+  date_end = "2016-08-13"
 
 +++
