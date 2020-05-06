@@ -23,10 +23,10 @@
   url = "#featured"
   weight = 40
 
-[[main]]
-    name = "CV"
-    url = "#cv"
-    weight = 60
+# [[main]]
+#   name = "CV"
+#   url = "#cv"
+#   weight = 60
 
 [[main]]
   name = "Contact"
