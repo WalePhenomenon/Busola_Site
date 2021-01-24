@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Biostatistician
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Lineberger Comprehensive Cancer Center, UNC-CH
-  url: "https://unclineberger.org/"
+- name: Harvard T.H. Chan School of Public Health
+  url: "https://www.hsph.harvard.edu/cbar/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -72,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-Testing I am a doctoral candidate at the Department of Biostatistics and a research biostatistician at the Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill. I was a fellow and a 3- year recipient of an academic and research scholarship from the Schlumberger faculty for the future program (2015 – 2018). I also received the 2019 ASA Biopharmaceutical Section Award in recognition of my notable research, academic achievement and applied project work related to the area of biopharmaceutical statistics.
+I am a Research Associate and Senior Biostatistician at the Center for Biostatistics in AIDS Research at Havard T.H. Chan School of Public Health. At Harvard, I am designing randomized controlled trials related to the treatment and prevention of Tuberculosis with and without HIV co-infection. I completed my PhD degree in Biostatistics under Prof. Michael Hudgens and Prof. Jianwen Cai at the University of North Carolina, Chapel Hill. I was a fellow and a 3- year recipient of an academic and research scholarship from the Schlumberger faculty for the future program (2015 – 2018). I also received the 2019 ASA Biopharmaceutical Section Award in recognition of my notable research, academic achievement and applied project work related to the area of biopharmaceutical statistics.
 
-I completed my undergraduate degree in Mathematics & Statistics at the University of Lagos, where I received the Vice Chancellor Prize for the best graduating student in the faculty of science, and my masters’ degree in Mathematics at Central Michigan University. I previously worked as a Biostatistics Ph.D. intern at Merck Pharmaceuticals (2016) and at Takeda Oncology (2017). My research interests are survival analysis, infectious diseases, clinical trials and evaluation of surrogate markers. In the last few years, I have been focused on collaborative global research projects that address the prevalence, screening, and treatments of human papillomavirus (HPV), human immunodeficiency virus (HIV) and cervical cancer.
+Prior to joining UNC, I completed my undergraduate degree in Mathematics & Statistics at the University of Lagos, where I received the Vice Chancellor Prize for the best graduating student in the faculty of science, and my masters’ degree in Mathematics at Central Michigan University. I previously worked as a Biostatistics Ph.D. intern at Merck Pharmaceuticals (2016) and at Takeda Oncology (2017). 
+
+My research interests are survival analysis, infectious diseases, clinical trials and evaluation of surrogate markers. In the last few years, I have been focused on collaborative global research projects that address the prevalence, screening, and treatments of human papillomavirus (HPV), human immunodeficiency virus (HIV) and cervical cancer. My methodological research focuses on nonparametric estimation of the joint distribution of survival time and mark variable, an endpoint indicator only observable at survival events, in the presence of dependent censoring.
