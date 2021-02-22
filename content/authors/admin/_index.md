@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Busola Sanusi
+title: Busola Sanusi, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -72,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Associate and Senior Biostatistician at the Center for Biostatistics in AIDS Research at Havard T.H. Chan School of Public Health. At Harvard, I am designing randomized controlled trials related to the treatment and prevention of Tuberculosis with and without HIV co-infection. I completed my PhD degree in Biostatistics at the University of North Carolina where I was jointly advised by Michael Hudgens and Jianwen Cai. I was a fellow and a 3-year recipient of an academic and research scholarship from the Schlumberger faculty for the future program (2015 – 2018). I also received the 2019 ASA Biopharmaceutical Section Award in recognition of my notable research, academic achievement and applied project work related to the area of biopharmaceutical statistics.
+I am a Research Associate and Senior Biostatistician at the [Center for Biostatistics in AIDS Research](https://www.hsph.harvard.edu/cbar/), Havard T.H. Chan School of Public Health. I completed my PhD degree in Biostatistics at the University of North Carolina where I was jointly advised by [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/) and [Jianwen Cai](https://sph.unc.edu/adv_profile/jianwen-cai-phd/). I was a fellow and a 3-year recipient of the [Schlumberger Faculty for the Future fellowship](https://sph.unc.edu/sph-news/sanusi-awarded-faculty-for-the-future-fellowship/). I also received the [2019 ASA Biopharmaceutical Section Award](https://sph.unc.edu/sph-news/sanusi-receives-asa-biopharmaceutical-section-scholarship-award/) in recognition of my notable research, academic achievement and applied project work related to the area of biopharmaceutical statistics.
 
-Prior to joining UNC, I completed my undergraduate degree in Mathematics & Statistics at the University of Lagos, where I received the Vice Chancellor Prize for the best graduating student in the faculty of science, and my masters’ degree in Mathematics at Central Michigan University. I previously worked as a Biostatistics Ph.D. intern at Merck Pharmaceuticals (2016) and at Takeda Oncology (2017). 
+Prior to joining UNC, I completed my undergraduate degree (1st Class) in Mathematics & Statistics at the University of Lagos, where I received the Vice Chancellor Prize for the best graduating student in the faculty of science, and my masters’ degree in Mathematics at Central Michigan University. I previously worked visiting Research Biostatistician at Merck Pharmaceuticals (2016) and at Takeda Oncology (2017). 
 
 My research interests are survival analysis, infectious diseases, clinical trials and evaluation of surrogate markers. In the last few years, I have been focused on collaborative global research projects that address the prevalence, screening, and treatments of human papillomavirus (HPV), human immunodeficiency virus (HIV) and cervical cancer. My methodological research focuses on nonparametric estimation of the joint distribution of survival time and mark variable, an endpoint indicator only observable at survival events, in the presence of dependent censoring.
